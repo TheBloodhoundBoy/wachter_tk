@@ -9,8 +9,8 @@ module.exports = {
   social: {
     website: 'wachter.tk',
     github: 'https://github.com/TheBloodhoundBoy',
-    Facebook: 'https://www.facebook.com/elias.wachter2',
-    Instagram: 'https://www.instagram.com/',
+    facebook: 'https://www.facebook.com/elias.wachter2',
+    instagram: 'https://www.instagram.com/',
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://wachter.tk',

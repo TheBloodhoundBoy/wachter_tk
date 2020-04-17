@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Site', // Required
+  author: 'Elias Wachter', // Required
+  description: 'Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'wachter.tk',
+    github: 'https://github.com/TheBloodhoundBoy',
+    Facebook: 'https://www.facebook.com/elias.wachter2',
+    Instagram: 'https://www.instagram.com/',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://wachter.tk',
 };

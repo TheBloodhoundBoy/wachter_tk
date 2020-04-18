@@ -88,7 +88,7 @@ function Social({ website, twitter, github, linkedin, facebook }) {
            width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
            preserveAspectRatio="xMidYMid meet">
           <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
-          fill="#000000" stroke="none">
+          fill="#FFFFFF" stroke="none">
           <path d="M2255 5108 c-105 -12 -298 -51 -409 -83 -994 -288 -1724 -1155 -1835
           -2177 -14 -125 -14 -451 0 -576 99 -919 703 -1723 1562 -2081 170 -71 487
           -161 566 -161 l21 0 0 895 0 895 -325 0 -325 0 0 370 0 370 325 0 325 0 0 359

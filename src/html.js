@@ -15,20 +15,6 @@ export default class HTML extends React.Component {
           />
           {this.props.headComponents}
           <link rel="shortcut icon" href={favicon} />
-          <script src="https://github.com/tengbao/vanta/blob/master/vendor/three.r95.min.js"></script>
-          <script src="https://github.com/tengbao/vanta/blob/master/dist/vanta.waves.min.js"></script>
-          <script>
-          VANTA.WAVES({
-            el: "#your-element-selector",
-            mouseControls: true,
-            touchControls: true,
-            minHeight: 200.00,
-            minWidth: 200.00,
-            scale: 1.00,
-            scaleMobile: 1.00,
-            waveSpeed: 0.25
-          })
-          </script>
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}

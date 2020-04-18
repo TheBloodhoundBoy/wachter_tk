@@ -85,11 +85,17 @@ function Social({ website, twitter, github, linkedin, facebook }) {
         <SocialLink href={facebook} target="_blank" rel="noopener">
           <svg version="1.0" 
            xmlns="http://www.w3.org/2000/svg"
-           width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
+           width="512.000000pt" 
+           height="512.000000pt"
+           stroke="currentColor"
+           strokeWidth="2"
+           strokeLinecap="round"
+           strokeLinejoin="round"
+           viewBox="0 0 512.000000 512.000000"
            preserveAspectRatio="xMidYMid meet">
-          <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
-          fill="#FFFFFF" stroke="none">
-          <path d="M2255 5108 c-105 -12 -298 -51 -409 -83 -994 -288 -1724 -1155 -1835
+           <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+           fill="#FFFFFF" stroke="none">
+           <path d="M2255 5108 c-105 -12 -298 -51 -409 -83 -994 -288 -1724 -1155 -1835
           -2177 -14 -125 -14 -451 0 -576 99 -919 703 -1723 1562 -2081 170 -71 487
           -161 566 -161 l21 0 0 895 0 895 -325 0 -325 0 0 370 0 370 325 0 325 0 0 359
           c0 397 6 462 61 617 107 305 331 497 659 564 94 20 128 21 325 17 184 -4 433

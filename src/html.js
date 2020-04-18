@@ -1,8 +1,6 @@
 import React from 'react';
 
 import favicon from './favicon.ico';
-import vanta from 'https://github.com/tengbao/vanta/blob/master/dist/vanta.waves.min.js';
-
 
 export default class HTML extends React.Component {
   render() {

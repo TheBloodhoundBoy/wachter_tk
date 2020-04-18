@@ -1,6 +1,7 @@
 import React from 'react';
 
 import favicon from './favicon.ico';
+import Particles from 'react-particles-js';
 
 export default class HTML extends React.Component {
   render() {
@@ -17,6 +18,7 @@ export default class HTML extends React.Component {
           <link rel="shortcut icon" href={favicon} />
         </head>
         <body {...this.props.bodyAttributes}>
+          <Particles />
           {this.props.preBodyComponents}
           <div
             key={`body`}

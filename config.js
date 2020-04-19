@@ -7,7 +7,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'wachter.tk',
+    spotify: 'https://open.spotify.com/user/1171162305',
     github: 'https://github.com/TheBloodhoundBoy',
     facebook: 'https://www.facebook.com/elias.wachter2',
     instagram: 'https://www.instagram.com/',

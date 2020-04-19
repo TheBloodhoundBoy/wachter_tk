@@ -22,11 +22,13 @@ function Header({ config }) {
         <P>{description}</P>
         {social &&
           <Social
+            spotify={social.spotify}
             website={social.website}
             github={social.github}
             twitter={social.twitter}
             linkedin={social.linkedin}
             facebook={social.facebook}
+            instagram={social.instagram}
           />
         }
       </Wrapper>

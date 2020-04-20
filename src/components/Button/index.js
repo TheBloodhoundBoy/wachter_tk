@@ -3,6 +3,7 @@ import Link from 'gatsby-link';
 
 const Button = styled(Link)`
   border: 1px solid #bfc8d2;
+  background-color:#FFFFFF;
   border-radius: 25px;
   color: #3e465b;
   display: inline-block;

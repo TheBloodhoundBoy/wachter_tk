@@ -1,23 +1,8 @@
 import React from 'react';
 
 import favicon from './favicon.ico';
-import * as THREE from 'three';
-import BIRDS from 'vanta/dist/vanta.birds.min'
 
 export default class HTML extends React.Component {
-  constructor() {
-    super()
-    this.vantaRef = React.createRef()
-  }
-  componentDidMount() {
-    this.vantaEffect = BIRDS({
-      el: this.vantaRef.current,
-      THREE: THREE
-    })
-  }
-  componentWillUnmount() {
-    if (this.vantaEffect) this.vantaEffect.destroy()
-  }
   render() {
     return (
       <html {...this.props.htmlAttributes}>
@@ -31,7 +16,7 @@ export default class HTML extends React.Component {
           {this.props.headComponents}
           <link rel="shortcut icon" href={favicon} />
         </head>
-        <body {...this.props.bodyAttributes} ref={this.vantaRef}>
+        <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
           <div
             key={`body`}

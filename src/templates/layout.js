@@ -8,7 +8,7 @@ import Header from '../components/Header';
 import GlobalStyle from '../global-styles';
 
 import * as THREE from 'three';
-import CLOUDS from 'vanta/dist/vanta.clouds.min'
+import WAVES from 'vanta/dist/vanta.waves.min'
 
 class Template extends React.Component {
   constructor() {
@@ -16,8 +16,9 @@ class Template extends React.Component {
     this.vantaRef = React.createRef()
   }
   componentDidMount() {
-    this.vantaEffect = CLOUDS({
+    this.vantaEffect = WAVES({
       el: this.vantaRef.current,
+      color: 0x000000,
       THREE: THREE
     })
   }

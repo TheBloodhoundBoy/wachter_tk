@@ -1,12 +1,20 @@
 ---
-title: My Second Post!
-date: "2018-06-29"
+title: Welcome!
+date: "2019-04-20"
+featuredImage: './omg.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. 
+## Another Blog? 😩
 
-Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+Yes! 😄 
+I've searched very long for a nice tech blog
+to get good news out of it.
+But I didn't found some special 
+or really exciting ones.
+Due to Corona,
+i thought it's time to start this project.
+Hope you enjoy the Blog posts
+and when you have any questions,
+you can write me a mail:
+elias@wachter.tk
 
-![Train Tracks](./traintrack.jpg)
-
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis.

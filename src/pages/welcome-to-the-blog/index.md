@@ -1,6 +1,6 @@
 ---
 title: Sonos is updating their OS to Version S2. But why?
-date: "2019-04-20"
+date: "2020-04-20"
 featuredImage: './Sonos.jpg'
 ---
 
